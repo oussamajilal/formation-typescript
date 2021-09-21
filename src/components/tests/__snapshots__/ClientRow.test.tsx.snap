@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ClientRow should render correctly 1`] = `
+<DocumentFragment>
+  1fake last nameLast Name: fake last name00
+  <button
+    data-testid="inc-btn"
+  >
+    Increment
+  </button>
+  <button
+    data-testid="dec-btn"
+  >
+    Decrement
+  </button>
+</DocumentFragment>
+`;
